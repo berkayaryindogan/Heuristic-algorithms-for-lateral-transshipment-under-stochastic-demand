@@ -1,7 +1,7 @@
 # Lateral Transshipment Optimization in Retail Networks
 
 ## Overview
-### ---------------------------------------------------------------------------------------------------
+
 This repository contains a senior design project focused on optimizing **lateral transshipment decisions** between retail stores.  
 The study is based on **retail stores**, and aims to minimize inventory-related costs by redistributing stock efficiently among stores.
 
